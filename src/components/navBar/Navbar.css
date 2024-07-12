@@ -1,0 +1,29 @@
+.nav{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: rgba(100, 90, 90, 0.541);
+    color:white
+}
+
+.nav-links{
+    
+    display: flex;
+    gap: 15px;
+    
+}
+.logo{
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+}
